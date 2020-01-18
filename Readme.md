@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юлия Крионерова](https://up.htmlacademy.ru/javascript/19/user/118132).
-* Наставник: `Неизвестно`.
+* Наставник: `Иван Марченко`.
 
 ---
 
