@@ -127,7 +127,6 @@ var cleanContainer = function (container) {
   }
 };
 
-bigPictureElement.classList.remove('hidden');
 socialCommentCountBlock.classList.add('hidden');
 commentsLoaderBlock.classList.add('hidden');
 pageBody.classList.add('modal-open');
